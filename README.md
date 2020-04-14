@@ -1,6 +1,6 @@
 <img src="https://cloud.githubusercontent.com/assets/1859381/5397698/9972fe22-815c-11e4-8be6-21e1d0d05849.jpg" alt="codecat" align="right">
 
-# GitHub scrum workflow
+# GitHub scrum workflow for ISII
 
 Turn any GitHub repository into a simple but powerful agile work environment.
 
